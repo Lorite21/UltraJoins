@@ -145,4 +145,4 @@ client.on("guildDelete", async guild => {
 }) 
 
 
-client.login(config.token1)
+client.login(NjE4NDkwNzg2NTg1MTE2Njgy)
